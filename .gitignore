@@ -1,0 +1,20 @@
+## .NET Core
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+## VS Code directories
+.vscode/
+.vs/
+
+## Local configuration files
+*.user
+appsettings.Development.json
+
+## Other
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
